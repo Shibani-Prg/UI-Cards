@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+#right::-webkit-scrollbar{
+    display:none;    /* to make the scroller bar invisible down the scrollable images*/
+}
